@@ -62,12 +62,11 @@ kramdown:
 # Gitalk
 gitalk:
   enable: true    #是否开启Gitalk评论
-  clientID: `a31b5b1112774edde7db`                          #生成的clientID
-  clientSecret: `abc9abfc80eba3afbddc04f0149300ce3d30dcf6`    #生成的clientSecret
-  repo: `taolei0108.github.io`    #仓库名称
-  owner: 'taolei0108'    #github用户名
-  admin: ['taolei0108']
-  id: 'asd'
+  clientID: a31b5b1112774edde7db                          #生成的clientID
+  clientSecret: abc9abfc80eba3afbddc04f0149300ce3d30dcf6    #生成的clientSecret
+  repo: taolei0108.github.io    #仓库名称
+  owner: taolei0108    #github用户名
+  admin: taolei0108
   distractionFreeMode: true #是否启用类似FB的阴影遮罩
 
 
@@ -79,7 +78,7 @@ gitalk:
 
 # Google Analytics
 ga_track_id: 'UA-129278509-1'            # Format: UA-xxxxxx-xx
-ga_domain: auto               # 默认的是 auto, 这里我是自定义了的域名，你如果没有自己的域名，需要改成auto
+ga_domain: 91tl.top              # 默认的是 auto, 这里我是自定义了的域名，你如果没有自己的域名，需要改成auto
 
 
 
