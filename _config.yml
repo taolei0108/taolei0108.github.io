@@ -5,7 +5,7 @@ header-img: img/index.png
 email: 805416615@qq.com
 description: "Every failure is leading towards success."
 keyword: "陶磊, linux"
-url: "http://taolei0108.github.io"          # your host, for absolute URL
+url: "https://91tl.top"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
 github_repo: "https://github.com/taolei0108/taolei0108.github.io.git" # you code repository
 
@@ -17,7 +17,7 @@ sidebar-avatar: /img/about-TL-gentle.jpg      # use absolute URL, seeing it's us
 
 
 # SNS settings
-RSS: false
+RSS: true
 # weibo_username:     qiubaiying
 #zhihu_username:     
 github_username:    taolei0108
@@ -33,7 +33,7 @@ github_username:    taolei0108
 permalink: pretty
 paginate: 10
 exclude: ["less","node_modules","Gruntfile.js","package.json","README.md"]
-anchorjs: true                          # if you want to customize anchor. check out line:181 of `post.html`
+anchorjs: true                        # if you want to customize anchor. check out line:181 of `post.html`
 
 
 
@@ -78,7 +78,7 @@ gitalk:
 
 # Google Analytics
 ga_track_id: 'UA-129278509-1'            # Format: UA-xxxxxx-xx
-ga_domain: 91tl.top              # 默认的是 auto, 这里我是自定义了的域名，你如果没有自己的域名，需要改成auto
+ga_domain: 91tl.top/              # 默认的是 auto, 这里我是自定义了的域名，你如果没有自己的域名，需要改成auto
 
 
 
